@@ -109,6 +109,8 @@ These scripts:
 - External high-resolution ADC
 - Auto-ranging system
 - GUI software for PC
+- Power Management System - Add battery-powered functionality
+- Protection & Safety Features - Overcurrent protection & Overvoltage protection
 
 ---
 ## 👥 Team Members
