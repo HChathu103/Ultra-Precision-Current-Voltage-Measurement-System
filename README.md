@@ -94,18 +94,7 @@ These scripts:
 
 ## 📸 System Preview
 
-![Prototype](     )
-
----
-
-## 👥 Team
-- Harsha Chathuranga
-- Janudi Dissanayake
-- Tharunimi Kodithuwakku
-- Sadun Magammana
-- Asiri Pathirana
-- Pramodth Pereara
-- Suditha Perera
+[Prototype](Images/Prototype.jpg)
 
 ---
 
@@ -122,6 +111,15 @@ These scripts:
 - GUI software for PC
 
 ---
+## 👥 Team Members
+- Harsha Chathuranga
+- Janudi Dissanayake
+- Tharunimi Kodithuwakku
+- Sadun Magammana
+- Asiri Pathirana
+- Pramodth Pereara
+- Suditha Perera
 
+---
 ## 📄 License
 MIT License
