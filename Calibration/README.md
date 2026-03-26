@@ -4,8 +4,8 @@
 Python scripts used to calibrate voltage and current measurements.
 
 ## Files
-- voltage_calibration.py
-- current_calibration.py
+- VoltageCalibration.py
+- CurrentCalibration.py
 
 ## Purpose
 - Reduce measurement error
