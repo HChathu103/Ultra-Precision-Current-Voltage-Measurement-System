@@ -22,6 +22,4 @@ This folder contains all hardware-related designs.
 - Reduce burden voltage
 - Ensure high accuracy
 
-## Files
-- `schematic.pdf`
-- `circuit.png`
+
