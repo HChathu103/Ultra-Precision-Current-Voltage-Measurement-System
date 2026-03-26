@@ -23,8 +23,8 @@ The system is built using an **STM32F411 microcontroller** with precision analog
 
 | Folder | Description |
 |------|-------------|
-| firmware | STM32 embedded code |
 | hardware | Circuit diagrams & schematics |
+| firmware | STM32 embedded code |
 | calibration | Python calibration scripts |
 | images | Project photos |
 
