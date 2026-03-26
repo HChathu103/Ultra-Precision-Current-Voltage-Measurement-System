@@ -41,7 +41,7 @@ The hardware includes:
 - OLED display interface (I2C)
 - Communication protocal (UART)
 
-👉 See `/hardware` for full design files
+👉 See `/Hardware` for full design files
 
 ---
 
@@ -52,7 +52,7 @@ The hardware includes:
 - UART communication for logging
 - SSD1306 OLED display integration
 
-👉 See `/firmware`
+👉 See `/Firmware`
 
 ---
 
@@ -67,7 +67,7 @@ These scripts:
 - Reduce measurement error
 - Improve accuracy using curve fitting
 
-👉 See `/calibration`
+👉 See `/Calibration`
 
 ---
 
