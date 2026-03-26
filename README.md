@@ -60,8 +60,8 @@ The hardware includes:
 
 Calibration is performed using Python scripts:
 
-- `voltage_calibration.py`
-- `current_calibration.py`
+- `VoltageCalibration.py`
+- `CurrentCalibration.py`
 
 These scripts:
 - Reduce measurement error
