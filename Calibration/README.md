@@ -16,7 +16,7 @@ Python scripts used to calibrate voltage and current measurements.
 - Apply correction formula
 
 ## Requirements
-- Python 3.x
+- Python 3.x or Colab
 - numpy
 - matplotlib
 
