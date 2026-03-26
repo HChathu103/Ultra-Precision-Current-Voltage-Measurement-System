@@ -83,7 +83,7 @@ These scripts:
 
 ## 📈 Data Logging
 
-- Serial communication to PC
+- Serial communication to PC using HC05-Bluetooth module
 - Data stored as `.csv`
 - Can be analyzed using:
   - Excel
@@ -94,7 +94,7 @@ These scripts:
 
 ## 📸 System Preview
 
-![Prototype](images/prototype.jpg)
+![Prototype](     )
 
 ---
 
