@@ -20,3 +20,7 @@ Embedded firmware for measuring voltage and current with high precision.
 - Ensure correct ADC calibration
 - Verify I2C connection for OLED
 - Verify UART connection for HC-05 Bluetooth module
+
+##
+STM32CubeIDE can be download using below Link: 
+https://www.st.com/en/development-tools/stm32cubeide.html
